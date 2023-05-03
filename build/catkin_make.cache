@@ -1,0 +1,2 @@
+racecar_simulator
+-DCATKIN_DEVEL_PREFIX=/opt/ros/sim_ws/devel -DCMAKE_INSTALL_PREFIX=/opt/ros/sim_ws/install -G Unix Makefiles
